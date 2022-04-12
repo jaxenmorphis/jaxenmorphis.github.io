@@ -7,7 +7,7 @@ body {
     top: 50%;
     left: 50%;
     transform: translateX(-50%) translateY(-50%);
-    color: green;
+    color: cornflowerblue;
     font-size: 40px;
     font-family: Consolas;
     letter-spacing: 7px;
